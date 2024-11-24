@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Div Patel</h1>
 <h3 align="center">A passionate Full Stack developer from Gujarat,India</h3>
 
+- 🔭 I’m currently working on **Twitter-Clone**
+
 - 🌱 I’m currently learning **Full-Stack Development**
+
+- 📫 How to reach me **divpatel4081@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
